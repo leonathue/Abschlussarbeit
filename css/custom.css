@@ -1,14 +1,6 @@
-body {
+body, h1, h2, h3 {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
-
-h1 {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  }
-
-h2 {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  }
 
 .image-container {
   height: 250px;
