@@ -30,8 +30,6 @@ body, h1, h2, h3 {
     text-align: left;
   }
 
-  
-
 
   @media (max-width: 600px) {
     .square.text-box {
